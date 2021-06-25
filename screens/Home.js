@@ -7,7 +7,7 @@ import {
 const Home = () => {
   return (
     <View>
-      <Text>Home</Text>
+      <Text>Homeeeeeeee2222222222222</Text>
     </View>
   )
 }
