@@ -131,7 +131,7 @@ const Tabs = () => {
         }}/>
         <Tab.Screen 
         name="Search"
-        component={Restaurant}
+        component={Home}
         options={{
           tabBarIcon: ({focused}) => (
             <Image 
@@ -152,7 +152,7 @@ const Tabs = () => {
         }}/>
         <Tab.Screen 
         name="Like"
-        component={Restaurant}
+        component={Home}
         options={{
           tabBarIcon: ({focused}) => (
             <Image 
@@ -174,7 +174,7 @@ const Tabs = () => {
         />
         <Tab.Screen 
         name="User"
-        component={Restaurant}
+        component={Home}
         options={{
           tabBarIcon: ({focused}) => (
             <Image 
