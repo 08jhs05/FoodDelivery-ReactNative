@@ -10,7 +10,7 @@ import {
 } from "react-native";
 import { COLORS, icons, images, SIZES, FONTS } from "../constants";
 
-const Home = () => {
+const Home = ({ navigation }) => {
 
   // ================================= DUMMY DATA =================================
 
