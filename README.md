@@ -4,4 +4,4 @@
 
 Simple food delivery mobile app built with React-Native.
 
-Tutorial youtube: https://www.youtube.com/watch?v=diUDjNwZ8Lg by ByProgrammers
+https://www.youtube.com/watch?v=diUDjNwZ8Lg
